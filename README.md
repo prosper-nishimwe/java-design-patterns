@@ -1,2 +1,12 @@
-# java-design-patterns
-Java implementations of common design patterns with explanations and examples.
+# Java Design Patterns
+
+This repository contains Java implementations of common software design patterns.
+
+## Patterns Included
+
+- Singleton
+- Builder
+- Factory
+- Decorator
+- Adapter
+- Strategy
